@@ -30,7 +30,7 @@ Price prediction + property recommender + dashboard, deployed with FastAPI & Str
 
 **🚚 Delivery ETA Prediction**  
 Full ML pipeline with Optuna, MLflow, Swagger API, deployed to AWS  
-🔗 [GitHub](https://github.com/AMR-ITH/DeliveryTimePredApp) · ⚡ [API Docs](http://13.201.71.93/docs)
+🔗 [GitHub](https://github.com/AMR-ITH/DeliveryTimePredApp) · ⚡ [API Docs](http://13.234.217.59/docs)
 
 **💬 YouTube Comment Analyzer**  
 Real-time sentiment analysis via Chrome Extension + Flask backend  
